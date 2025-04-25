@@ -14,4 +14,5 @@ CISCO ETHICAL HACKER
 GOOGLE CYBERSECURITY
   https://coursera.org/verify/professional-cert/D3LVWW7QLVQT
 
-
+GOOGLE CLOUD -MODERN SECURITY OPERATIONS
+  https://coursera.org/verify/2K3TC9VJK0Z2
